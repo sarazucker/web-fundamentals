@@ -1,2 +1,2 @@
 # web-fundamentals
-mid-semester Web Fundamentals project
+mid-semester project
